@@ -49,7 +49,7 @@ El objetivo de este estudio es evaluar los efectos combinados de la temperatura 
 
 Diseño experimental: Se usara un experimento factorial de dos factores para investigar cómo la temperatura y el pH influyen en la germinación de las semillas. Los factores son la temperatura (dos niveles: 25°C y 30°C) y el pH (dos niveles: 6 y 7). Cada combinación de temperatura y pH se repetirá cinco veces, dando como resultado un total de 20 unidades experimentales.
 
-Recopilación de datos: se coloca 30 semillas para cada tratamiento en placas de Petri separadas, manteniendo la temperatura y los niveles de pH designados. Se cuenta y registra el número de semillas germinadas después de un período de tiempo fijo (2 semanas). Se calcula el porcentaje de germinación para cada tratamiento como la proporción de semillas germinadas con respecto al número total de semillas plantadas.
+Recopilación de datos: se coloca 30 semillas para cada tratamiento en placas de Petri separadas, manteniendo la temperatura y los niveles de pH designados. Se cuenta y registra el número de semillas germinadas después de un período de tiempo fijo (2 semanas). Se calcula el porcentaje de germinación para cada tratamiento como la proporción de semillas germinadas con respecto al número total de semillas sembradas.
 
 
 ### OBJETIVO
@@ -74,7 +74,7 @@ Cada grupo de 30 semillas que se 'sembraron' en las cajas de Petri.
 
 ### VARIABLE RESPUESTA
 
-Cantidad de semillas germinadas por caja de Petri.
+Porcentaje de semillas germinadas por caja de Petri.
 
 ### VARIABLES INDEPENDIENTES
 
